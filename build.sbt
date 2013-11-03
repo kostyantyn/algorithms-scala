@@ -1,4 +1,4 @@
-name := "hello"
+name := "Algorithms"
 
 version := "1.0"
 
